@@ -155,9 +155,11 @@ This proof-of-concept laid out a clear, data-driven strategy for the Library of 
 * The model provides a reliable, automated tool for businesses to quickly gauge customer sentiment from large volumes of reviews, enabling faster response times and better brand monitoring.
 * Through model interpretation, I identified a key limitation: the model struggled with nuanced language and negation (e.g., classifying "Gael is not a bad person" as negative), highlighting the need for more advanced, context-aware models like BERT for future iterations.
 
+![Model-limitation](images/Image_7.png)
+
 ***
 
-## ⚖️ Project 6: AI Strategy for Legal Document Processing with Legal-BERT - Individual Project
+## ⚖️ Project 6: AI Strategy/Proof-of-Concept for Legal Document Processing with Legal-BERT - Individual Project
 
 **Objective:** To design a proof-of-concept for a "Smart Document Processing" platform to automate the review of legal contracts at a large law firm. The proposed AI system aims to solve the business problem of slow, costly, and error-prone manual contract analysis.
 
