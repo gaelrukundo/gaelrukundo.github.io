@@ -23,8 +23,7 @@ Welcome to my project portfolio. Below are six selected projects comprised of in
     * **Scenario A (Minimize Reserves)**: I created a **value matrix** where False Positives (predicting a bad loan as 'Good') incurred a **$200 loss**. I then iterated through different classification thresholds to identify the point that minimized this total expected loss.
     * **Scenario B (Maximize Profit)**: I engineered a more sophisticated **net profit matrix**. This model accounted not only for the $200 loss on False Positives but also for the **$50 profit** from True Positives (correctly approved good loans) and the **$50 opportunity cost** of False Negatives (incorrectly denying a good customer).
 
-_Suggested Visual: A side-by-side image of the confusion matrix and the corresponding cost matrix._
-``
+![The confusion matrix and the corresponding cost matrix](images/image_1.png)
 
 ### Results & Business Impact 📈
 
@@ -35,8 +34,7 @@ This project demonstrated a clear ability to translate model metrics into busine
 
 This analysis provides a clear, data-driven framework for the financial institution to adjust its lending strategy based on its current risk appetite and profitability goals.
 
-_Suggested Visual: A plot showing how the total financial impact (cost) changes at different classification thresholds._
-``
+![Total financial impact (cost) changes at different classification thresholds](images/image_2.png)
 
 ***
 
@@ -60,8 +58,7 @@ _Suggested Visual: A plot showing how the total financial impact (cost) changes 
     Both methods pointed towards an optimal structure of **5 distinct customer clusters**.
 3.  **Clustering & Visualization**: I applied the **K-Means algorithm** with k=5 to segment the customers. To visualize these high-dimensional clusters, I used **Principal Component Analysis (PCA)** to reduce the data to its two most significant components, allowing for a clear 2D representation of the distinct personas.
 
-_Suggested Visual: The PCA plot showing the final, colored clusters._
-``
+![PCA plot showing the final colored clusters](images/image_3.png)
 
 ### Results & Business Impact 💡
 
@@ -91,8 +88,7 @@ _Suggested Visual: The PCA plot showing the final, colored clusters._
     * Testing various modeling architectures, including bagging and ensembling methods.
 3.  **Performance Benchmarking**: All models were rigorously evaluated based on their F1 Score and the official competition metric, allowing us to track our progress and select the most promising approach for our final submission.
 
-_Suggested Visual: A screenshot of the Zindi leaderboard showing the team's final rank._
-``
+![Zindi leaderboard](images/image_4.png)
 
 ### Results & Impact 🏅
 
