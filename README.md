@@ -38,7 +38,7 @@ This analysis provides a clear, data-driven framework for the financial institut
 
 ***
 
-## 🎯 Project 2: Unsupervised Customer Segmentation for Persona Development - Individual Project
+### 🎯 Project 2: Unsupervised Customer Segmentation for Persona Development - Individual Project
 
 **Objective:** To analyze a diverse customer base and apply unsupervised learning to segment customers into distinct, actionable personas. The goal was to provide the marketing team with a clear understanding of their customer base to enable targeted marketing strategies.
 
@@ -68,7 +68,7 @@ This analysis provides a clear, data-driven framework for the financial institut
 
 ***
 
-## 🏆 Project 3: Competitive Machine Learning - Loan Default Prediction  - Team-based Project
+### 🏆 Project 3: Competitive Machine Learning - Loan Default Prediction  - Team-based Project
 
 **Objective:** To develop a high-performing classification model to predict loan defaults as part of a competitive challenge on the Zindi platform.
 
@@ -98,7 +98,7 @@ This analysis provides a clear, data-driven framework for the financial institut
 
 ***
 
-## 🏛️ Project 4: NLP-Powered Topic Modeling for Parliamentary Analysis - Team-based Project
+### 🏛️ Project 4: NLP-Powered Topic Modeling for Parliamentary Analysis - Team-based Project
 
 **Objective:** To design and validate a proof-of-concept for an AI platform that automates topic detection from Canadian Parliamentary Debates (Hansards). The goal was to drastically reduce the manual effort required by parliamentary researchers to analyze over 100,000 words of text per session and to improve the speed and accuracy of identifying legislative trends.
 
@@ -131,7 +131,7 @@ This proof-of-concept laid out a clear, data-driven strategy for the Library of 
 
 ***
 
-## 💬 Project 5: Sentiment Analysis of Customer Reviews - Individual Project
+### 💬 Project 5: Sentiment Analysis of Customer Reviews - Individual Project
 
 **Objective:** To build and evaluate a machine learning pipeline for classifying text-based customer reviews as either positive or negative. This project demonstrates an end-to-end NLP workflow, from data cleaning and preprocessing to model training, optimization, and interpretation.
 
@@ -159,7 +159,7 @@ This proof-of-concept laid out a clear, data-driven strategy for the Library of 
 
 ***
 
-## ⚖️ Project 6: AI Strategy and Proof-of-Concept for Legal Document Processing with Legal-BERT - Individual Project
+### ⚖️ Project 6: AI Strategy and Proof-of-Concept for Legal Document Processing with Legal-BERT - Individual Project
 
 **Objective:** To design a proof-of-concept for a "Smart Document Processing" platform to automate the review of legal contracts at a large law firm. The proposed AI system aims to solve the business problem of slow, costly, and error-prone manual contract analysis.
 
