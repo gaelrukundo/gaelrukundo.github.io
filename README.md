@@ -4,7 +4,7 @@ Welcome to my project portfolio. Below are six selected projects comprised of in
 
 ***
 
-## 💳 Project 1: Advanced Credit Risk Modeling & Profit Maximization Strategy - Individual Project
+### 💳 Project 1: Advanced Credit Risk Modeling & Profit Maximization Strategy - Individual Project
 
 **Objective:** To move beyond standard classification accuracy and develop a credit risk model that optimizes for tangible business outcomes. This project focused on building a model to predict loan defaults and then fine-tuning its decision threshold to align with two distinct financial strategies: **minimizing contingency reserves** and **maximizing overall profit**.
 
