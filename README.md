@@ -159,7 +159,7 @@ This proof-of-concept laid out a clear, data-driven strategy for the Library of 
 
 ***
 
-## ⚖️ Project 6: AI Strategy/Proof-of-Concept for Legal Document Processing with Legal-BERT - Individual Project
+## ⚖️ Project 6: AI Strategy and Proof-of-Concept for Legal Document Processing with Legal-BERT - Individual Project
 
 **Objective:** To design a proof-of-concept for a "Smart Document Processing" platform to automate the review of legal contracts at a large law firm. The proposed AI system aims to solve the business problem of slow, costly, and error-prone manual contract analysis.
 
