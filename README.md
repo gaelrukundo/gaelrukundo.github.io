@@ -1,4 +1,4 @@
-## Hi! I'm Gaël (pronounced guy-Elle) 👋🏾
+## Hi! I'm Gaël 👋🏾
 
 Welcome to my projects portfolio. Below are six selected projects comprised of individual and team-based projects completed during my Master of Management Analytics program at Queen's University. They are showcased to demonstrate my expertise in applying machine learning, natural language processing, and data analysis to solve complex business problems. Each project highlights an end-to-end workflow, from data preprocessing and model development to delivering actionable, data-driven insights.
 
