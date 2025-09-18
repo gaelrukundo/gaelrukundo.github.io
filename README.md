@@ -23,7 +23,7 @@ Welcome to my project portfolio. Below are six selected projects comprised of in
     * **Scenario A (Minimize Reserves)**: I created a **value matrix** where False Positives (predicting a bad loan as 'Good') incurred a **$200 loss**. I then iterated through different classification thresholds to identify the point that minimized this total expected loss.
     * **Scenario B (Maximize Profit)**: I engineered a more sophisticated **net profit matrix**. This model accounted not only for the $200 loss on False Positives but also for the **$50 profit** from True Positives (correctly approved good loans) and the **$50 opportunity cost** of False Negatives (incorrectly denying a good customer).
 
-![The confusion matrix and the corresponding cost matrix](images/image_1.png)
+![The confusion matrix and the corresponding cost matrix](images/Image_1.png)
 
 ### Results & Business Impact 📈
 
@@ -34,7 +34,7 @@ This project demonstrated a clear ability to translate model metrics into busine
 
 This analysis provides a clear, data-driven framework for the financial institution to adjust its lending strategy based on its current risk appetite and profitability goals.
 
-![Total financial impact (cost) changes at different classification thresholds](images/image_2.png)
+![Total financial impact (cost) changes at different classification thresholds](images/Image_2.png)
 
 ***
 
@@ -58,7 +58,7 @@ This analysis provides a clear, data-driven framework for the financial institut
     Both methods pointed towards an optimal structure of **5 distinct customer clusters**.
 3.  **Clustering & Visualization**: I applied the **K-Means algorithm** with k=5 to segment the customers. To visualize these high-dimensional clusters, I used **Principal Component Analysis (PCA)** to reduce the data to its two most significant components, allowing for a clear 2D representation of the distinct personas.
 
-![PCA plot showing the final colored clusters](images/image_3.png)
+![PCA plot showing the final colored clusters](images/Image_3.png)
 
 ### Results & Business Impact 💡
 
@@ -88,7 +88,7 @@ This analysis provides a clear, data-driven framework for the financial institut
     * Testing various modeling architectures, including bagging and ensembling methods.
 3.  **Performance Benchmarking**: All models were rigorously evaluated based on their F1 Score and the official competition metric, allowing us to track our progress and select the most promising approach for our final submission.
 
-![Zindi leaderboard](images/image_4.png)
+![Zindi leaderboard](images/Image_4.png)
 
 ### Results & Impact 🏅
 
@@ -116,8 +116,10 @@ This analysis provides a clear, data-driven framework for the financial institut
 2.  **Preprocessing & Initial Analysis**: We performed standard NLP preprocessing, including stop word removal, bigram generation, and lemmatization. Our initial analysis with **NMF** successfully identified 8 distinct and interpretable topics, validating the feasibility of the project.
 3.  **Advanced Model Selection**: While NMF was effective, we selected **BERTopic as the core of our proposed solution** due to its superior architecture, which leverages sentence transformers for more nuanced contextual understanding. This approach also allows for powerful enhancements, such as fine-tuning with a Large Language Model (LLM).
 
-_Suggested Visual: The chart from the presentation showing the topics and their word scores._
-``
+
+![BERTopic Model Results 1](images/Image_5.png)
+
+![BERTopic Model Results 1](images/Image_6.png)
 
 ### Results & Business Impact 🚀
 
