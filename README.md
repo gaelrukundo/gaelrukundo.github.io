@@ -153,7 +153,7 @@ This proof-of-concept laid out a clear, data-driven strategy for the Library of 
 
 * After hyperparameter tuning and comparison, the **Multinomial Naive Bayes model** was selected as the top performer, achieving an **Accuracy of 76.2%** and an **F1-Score of 75.0%** on the unseen test data.
 * The model provides a reliable, automated tool for businesses to quickly gauge customer sentiment from large volumes of reviews, enabling faster response times and better brand monitoring.
-* Through model interpretation, I identified a key limitation: the model struggled with nuanced language and negation (e.g., classifying "Gael is not a bad person" as negative), highlighting the need for more advanced, context-aware models like BERT for future iterations.
+* Through model interpretation, I identified a key limitation: the model struggled with nuanced language and negation (e.g., classifying "Gael is not a bad person" as negative), <ins>highlighting the need for more advanced, context-aware models like BERT for future iterations</ins>.
 
 ![Model-limitation](images/Image_7.png)
 
